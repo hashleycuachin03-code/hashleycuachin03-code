@@ -1,4 +1,4 @@
-<!-- HEADER BANNER -->
+![logo]()
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hello,%20I'm%20Hashley!&fontSize=50" width="100%" />
 </p>
