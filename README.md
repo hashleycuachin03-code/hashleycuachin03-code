@@ -6,7 +6,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hello,%20I'm%20Hashley!&fontSize=50" width="100%" />
 </p>
 
-<h3 align="center">A passionate Full-Stack Engineer & Learner</h3>
+<h3 align="center">A passionate Full-Stack Developer & Learner</h3>
 
 ---
 
