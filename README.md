@@ -75,3 +75,8 @@ I am a Full-Stack Web Development learner building projects across frontend stat
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
 </p>
+
+<!-- PROFILE VIEWS COUNTER -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=hashleycuachin03-code&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+</p>
