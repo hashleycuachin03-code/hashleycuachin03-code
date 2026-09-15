@@ -60,12 +60,12 @@ I am a Full-Stack Web Development learner building projects across frontend stat
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hashleycuachin03-code&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=hashleycuachin03-code&show_icons=true&theme=tokyonight" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hashleycuachin03-code&theme=tokyonight" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hashleycuachin03-code&layout=compact&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hashleycuachin03-code&layout=compact&theme=tokyonight" width="48%" />
 </p>
 
 ---
