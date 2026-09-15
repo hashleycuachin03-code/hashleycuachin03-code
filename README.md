@@ -60,12 +60,12 @@ I am a Full-Stack Web Development learner building projects across frontend stat
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hashleycuachin03-code&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hashleycuachin03-code&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.shion.dev/api?username=hashleycuachin03-code&show_icons=true&theme=tokyonight" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hashleycuachin03-code&theme=tokyonight" width="48%" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hashleycuachin03-code&layout=compact&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=hashleycuachin03-code&layout=compact&theme=tokyonight" width="48%" alt="Top Languages" />
 </p>
 
 ---
@@ -74,4 +74,9 @@ I am a Full-Stack Web Development learner building projects across frontend stat
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+</p>
+
+<!-- PROFILE VIEWS COUNTER -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=hashleycuachin03-code&color=blueviolet&style=for-the-badge" alt="Profile Views" />
 </p>
