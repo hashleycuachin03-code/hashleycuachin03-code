@@ -18,6 +18,8 @@ I am a Full-Stack Web Development learner building projects across frontend stat
 - Building projects using **React**, **Node.js**, **Express**, and **JavaScript**
 - Profile: [hashleycuachin03-code](https://github.com/hashleycuachin03-code/hashleycuachin03-code)
 
+![Alt Text](https://github.com/hashleycuachin03-code/hashleycuachin03-code/blob/main/download.gif)
+
 ---
 
 ### Tech Stack
