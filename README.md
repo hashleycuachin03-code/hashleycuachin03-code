@@ -1,5 +1,3 @@
-
-
 ![logo](https://github.com/hashleycuachin03-code/hashleycuachin03-code/blob/main/download.gif)
 
 <p align="center">
