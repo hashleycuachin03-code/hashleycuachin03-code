@@ -1,10 +1,14 @@
 ![logo](https://github.com/hashleycuachin03-code/hashleycuachin03-code/blob/main/Cofounder%20lets%20you%20run%20an%20entire%20company%20with%20AI.gif)
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A2E2B,50:CD853F,100:FAF0E6&height=200&section=header&text=Hello,%20I'm%20Hashley!&fontSize=50&animation=twinkling" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A2E2B,50:CD853F,100:FAF0E6&height=220&section=header&text=Hello,%20I'm%20Hashley!&fontSize=48&animation=twinkling&fontColor=ffffff&desc=Software%20Engineer%20%7C%20Tech%20Explorer&descSize=20&descAlignY=68" width="100%" />
 </p>
 
-<h3 align="center">A passionate Full-Stack Developer & Learner</h3>
+<p align="center">
+  <a href="https://github.com/hashleycuachin03-code">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=CD853F&center=true&vcenter=true&width=600&lines=A+passionate+Full-Stack+Developer;Building+with+React%2C+Node.js%2C+%26+Express;Learning+Data+Science" alt="Typing SVG" />
+  </a>
+</p>
 
 ---
 
@@ -15,8 +19,6 @@ I am a Full-Stack Web Development learner building projects across frontend stat
 - Currently practicing exercises from the **Full Stack Open** curriculum
 - Building projects using **React**, **Node.js**, **Express**, and **JavaScript**
 - Profile: [hashleycuachin03-code](https://github.com/hashleycuachin03-code/hashleycuachin03-code)
-
-![Alt Text](https://github.com/hashleycuachin03-code/hashleycuachin03-code/blob/main/download.gif)
 
 ---
 
@@ -89,3 +91,6 @@ I am a Full-Stack Web Development learner building projects across frontend stat
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=hashleycuachin03-code&color=blueviolet&style=for-the-badge" alt="Profile Views" />
 </p>
+
+![Alt Text](https://github.com/hashleycuachin03-code/hashleycuachin03-code/blob/main/download.gif)
+
