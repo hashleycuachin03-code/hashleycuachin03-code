@@ -68,6 +68,19 @@ I am a Full-Stack Web Development learner building projects across frontend stat
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=hashleycuachin03-code&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </p>
+
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/
+hashleycuachin03-code/
+hashleycuachin03-code/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hashleycuachin03-code/
+hashleycuachin03-code/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/hashleycuachin03-code/
+hashleycuachin03-code/output/github-snake.svg" />
+</picture>
+
 ---
 
 ### 💬 Random Dev Quote
