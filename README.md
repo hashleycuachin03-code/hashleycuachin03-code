@@ -1,7 +1,7 @@
 ![logo](https://github.com/hashleycuachin03-code/hashleycuachin03-code/blob/main/download.gif)
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hello,%20I'm%20Hashley!&fontSize=50" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A2E2B,50:CD853F,100:FAF0E6&height=200&section=header&text=Hello,%20I'm%20Hashley!&fontSize=50&animation=twinkling" width="100%" />
 </p>
 
 <h3 align="center">A passionate Full-Stack Developer & Learner</h3>
@@ -15,6 +15,8 @@ I am a Full-Stack Web Development learner building projects across frontend stat
 - Currently practicing exercises from the **Full Stack Open** curriculum
 - Building projects using **React**, **Node.js**, **Express**, and **JavaScript**
 - Profile: [hashleycuachin03-code](https://github.com/hashleycuachin03-code/hashleycuachin03-code)
+
+![Alt Text](https://github.com/hashleycuachin03-code/hashleycuachin03-code/blob/main/download.gif)
 
 ---
 
@@ -58,14 +60,14 @@ I am a Full-Stack Web Development learner building projects across frontend stat
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=hashleycuachin03-code&show_icons=true&theme=tokyonight" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hashleycuachin03-code&theme=tokyonight" width="48%" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.shion.dev/api?username=hashleycuachin03-code&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </p>
-
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=hashleycuachin03-code&layout=compact&theme=tokyonight" width="48%" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com/?user=hashleycuachin03-code&theme=dark&hide_border=false" alt="GitHub Streak" />
 </p>
-
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=hashleycuachin03-code&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+</p>
 ---
 
 ### 💬 Random Dev Quote
