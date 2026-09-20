@@ -16,8 +16,6 @@ I am a Full-Stack Web Development learner building projects across frontend stat
 - Building projects using **React**, **Node.js**, **Express**, and **JavaScript**
 - Profile: [hashleycuachin03-code](https://github.com/hashleycuachin03-code/hashleycuachin03-code)
 
-![Alt Text](https://github.com/hashleycuachin03-code/hashleycuachin03-code/blob/main/download.gif)
-
 ---
 
 ### Tech Stack
@@ -89,3 +87,6 @@ I am a Full-Stack Web Development learner building projects across frontend stat
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=hashleycuachin03-code&color=blueviolet&style=for-the-badge" alt="Profile Views" />
 </p>
+
+![Alt Text](https://github.com/hashleycuachin03-code/hashleycuachin03-code/blob/main/download.gif)
+
