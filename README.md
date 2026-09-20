@@ -61,8 +61,6 @@ I am a Full-Stack Web Development learner building projects across frontend stat
 
 ### GitHub Stats
 
-### GitHub Stats
-
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=hashleycuachin03-code&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </p>
