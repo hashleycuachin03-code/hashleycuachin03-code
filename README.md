@@ -1,7 +1,7 @@
 ![logo](https://github.com/hashleycuachin03-code/hashleycuachin03-code/blob/main/Cofounder%20lets%20you%20run%20an%20entire%20company%20with%20AI.gif)
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A2E2B,50:CD853F,100:FAF0E6&height=220&section=header&text=Hello,%20I'm%20Hashley!&fontSize=48&animation=twinkling&fontColor=ffffff&desc=Software%20Engineer%20%7C%20Tech%20Explorer&descSize=20&descAlignY=68" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A2E2B,50:CD853F,100:FAF0E6&height=220&section=header&text=Hello,%20I'm%20Hashley!&fontSize=48&animation=twinkling&fontColor=ffffff&desc=Software%20Engineer%20%7C%20Data%20Scientist&descSize=20&descAlignY=68" width="100%" />
 </p>
 
 <p align="center">
