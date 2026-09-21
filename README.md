@@ -14,7 +14,7 @@
 
 ### About Me
 
-I am a Full-Stack Web Development learner building projects across frontend state management, RESTful API architecture, server-side design, and dynamic web interfaces.
+I am a Software Engineer and Full-Stack Web Development learner building applications across desktop GUI architectures, dynamic web interfaces, RESTful APIs, and relational databases.
 
 - Currently practicing exercises from the **Full Stack Open** curriculum
 - Building projects using **React**, **Node.js**, **Express**, and **JavaScript**
@@ -26,40 +26,43 @@ I am a Full-Stack Web Development learner building projects across frontend stat
 
 #### Languages & Core
 
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
-</p>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
 #### Frameworks & Backend
 
-<p>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white" />
-</p>
+![Java Swing](https://img.shields.io/badge/Java_Swing-007396?style=for-the-badge&logo=java&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
 
 #### Tools & Environment
 
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
-</p>
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Apache NetBeans](https://img.shields.io/badge/Apache_NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
 ---
 
 ### Featured Projects
 
-- **[Practice Full Stack Exercises](https://github.com/hashleycuachin03-code/PracticeFullStackExercises)** — Hands-on applications covering React basics, complex state management, REST APIs, custom Express servers, and CRUD operations.
+- **[Attendance Management System](https://github.com/hashleycuachin03-code/AttendanceManagementSystem)**
+  A desktop-based Java Swing application built in Apache NetBeans for tracking attendance, user logs, and check-in/out records. Integrated with a MySQL database via phpMyAdmin.
 
+- **[Practice Full Stack Exercises](https://github.com/hashleycuachin03-code/PracticeFullStackExercises)**
+  Hands-on full-stack development covering React fundamentals, state management, custom Express RESTful APIs, and database CRUD operations based on the *Full Stack Open* curriculum.
 ---
 
 ### GitHub Stats
+
 
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=hashleycuachin03-code&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
