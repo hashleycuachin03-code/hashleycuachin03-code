@@ -62,9 +62,11 @@ I am a Software Engineer and Full-Stack Web Development learner building applica
 - **[Attendance Management System](https://github.com/hashleycuachin03-code/AttendanceManagementSystem)**
   A desktop-based Java Swing application built in Apache NetBeans for tracking attendance, user logs, and check-in/out records. Integrated with a MySQL database via phpMyAdmin.
 
-- **[BUPC Pharmacy Management Portal](https://github.com/hashleycuachin03-code/pharmacyBupcApp)**
+- **[BUPC Pharmacy Management Portal](https://github.com/hashleycuachin03-code/pharmacyBupcApp)** 
   An institutional health informatics and predictive management system for Bicol University Polangui Campus (BUPC) Health Services Unit. Features a star schema dimensional data warehouse, real-time prescription dispensing, printable receipts, and linear regression surge simulation. Built with React 19, TypeScript, Vite, Tailwind CSS v4, Supabase, and Chart.js.
-
+  
+  [![Live Demo](https://img.shields.io/badge/Live_Demo-Render-000000?style=flat-square&logo=render&logoColor=white)](https://pharmacybupcapp.onrender.com/) [https://pharmacybupcapp.onrender.com/](https://pharmacybupcapp.onrender.com/)
+  
 - **[Practice Full Stack Exercises](https://github.com/hashleycuachin03-code/PracticeFullStackExercises)**
   Hands-on full-stack development covering React fundamentals, state management, custom Express RESTful APIs, and database CRUD operations based on the *Full Stack Open* curriculum.
 ---
