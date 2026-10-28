@@ -62,8 +62,7 @@ I am a Software Engineer and Full-Stack Web Development learner building applica
 - **[Attendance Management System](https://github.com/hashleycuachin03-code/AttendanceManagementSystem)**
   A desktop-based Java Swing application built in Apache NetBeans for tracking attendance, user logs, and check-in/out records. Integrated with a MySQL database via phpMyAdmin.
 
-- **[BUPC Pharmacy Management Portal](https://github.com/hashleycuachin03-code/pharmacyBupcApp)** 
-  An institutional health informatics and predictive management system for Bicol University Polangui Campus (BUPC) Health Services Unit. Features a star schema dimensional data warehouse, real-time prescription dispensing, printable receipts, and linear regression surge simulation. Built with React 19, TypeScript, Vite, Tailwind CSS v4, Supabase, and Chart.js.
+- **[PharmaPulse Analytics](https://github.com/hashleycuachin03-code/pharmacyBupcApp)** is a reusable pharmacy management and decision-support application for pharmacies, clinics, and healthcare organizations. It combines prescription dispensing, medication and patient directories, analytics, and inventory demand forecasting. Configure it for your organization by connecting your own Supabase project and pharmacy data.
   
   [![Live Demo](https://img.shields.io/badge/Live_Demo-Render-000000?style=flat-square&logo=render&logoColor=white)](https://pharmacybupcapp.onrender.com/)
   
